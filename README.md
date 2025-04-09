@@ -30,11 +30,11 @@ A fun React application that lets users customize and generate their own alpaca 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/alpaca-generator.git
+   git clone https://github.com/mahmouddwidar/Alpaca-image-generator-website.git
    ```
 2. Navigate to project directory:
    ```bash
-   cd alpaca-generator
+   cd Alpaca-image-generator-website
    ```
 3. Install dependencies:
    ```bash
