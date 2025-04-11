@@ -4,6 +4,11 @@ A fun React application that lets users customize and generate their own alpaca 
 
 ![Alpaca Generator Screenshot](https://github.com/user-attachments/assets/83d23c52-f5cc-4718-aab6-7deaa559fefc)
 
+## 🎨 Figma Design
+
+Explore the design on Figma Community:  
+[https://www.figma.com/community/file/1492518287576375238](https://www.figma.com/community/file/1492518287576375238)
+
 ## ✨ Features
 
 - Customize 8 different alpaca parts (background, hair, ears, eyes, etc.)
